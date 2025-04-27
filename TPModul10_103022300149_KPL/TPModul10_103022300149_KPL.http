@@ -1,0 +1,6 @@
+@TPModul10_103022300149_KPL_HostAddress = http://localhost:5071
+
+GET {{TPModul10_103022300149_KPL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
